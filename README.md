@@ -1,6 +1,6 @@
 ```
- Develop By : Naveen Kumar.T
- Reg No : 212223220067
+ Develop By : RAGUNATH R
+ Reg No : 212222240081
 ```
 # Ex.No:1a      Study of Socket Programming
 
